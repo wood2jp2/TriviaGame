@@ -4,6 +4,7 @@ $(document).ready( function() {
 	var gameClock;
 		userScore = 0;
 		incorrectGuesses = 0;
+		questionDivCount = 0;
 
 	var triviaGame = {
 
